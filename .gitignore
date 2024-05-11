@@ -3,3 +3,5 @@
 test/
 sample-*
 .DS_Store
+ignore-files/
+__pycache__/
