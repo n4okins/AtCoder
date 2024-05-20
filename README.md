@@ -1,3 +1,2 @@
-# atcoder
-
-Describe your project here.
+# AtCoder
+勉強中
