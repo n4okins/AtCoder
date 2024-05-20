@@ -6,9 +6,6 @@ authors = [
     { name = "n4okins", email = "63445867+n4okins@users.noreply.github.com" }
 ]
 dependencies = [
-    "numpy>=1.26.4",
-    "online-judge-tools>=11.5.1",
-    "numba>=0.59.1",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
