@@ -5,3 +5,5 @@ sample-*
 .DS_Store
 ignore-files/
 __pycache__/
+.env
+.acp
